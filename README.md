@@ -2,6 +2,8 @@
 
 18-year-old aspiring software developer from Iran, currently preparing for a Fachinformatiker (Anwendungsentwicklung) Ausbildung in Germany (target start: August/September 2027).
 
+Website: https://ikorosh.github.io
+
 I'm learning programming properly — Python, Git, and SQL — and building small, real projects along the way. I can explain what my projects do, and I'm working on understanding them deeper, not just collecting repos.
 
 ## 🌱 Currently learning
